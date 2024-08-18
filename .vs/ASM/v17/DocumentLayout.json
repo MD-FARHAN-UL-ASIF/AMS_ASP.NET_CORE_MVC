@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\NearByDoctor-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC63600E-1FBF-4310-952B-2467B42D598C}|ASM\\ASM.csproj|f:\\nearbydoctor-main\\asm\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC63600E-1FBF-4310-952B-2467B42D598C}|ASM\\ASM.csproj|solutionrelative:asm\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC63600E-1FBF-4310-952B-2467B42D598C}|ASM\\ASM.csproj|f:\\nearbydoctor-main\\asm\\views\\appointments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC63600E-1FBF-4310-952B-2467B42D598C}|ASM\\ASM.csproj|solutionrelative:asm\\views\\appointments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC63600E-1FBF-4310-952B-2467B42D598C}|ASM\\ASM.csproj|f:\\nearbydoctor-main\\asm\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC63600E-1FBF-4310-952B-2467B42D598C}|ASM\\ASM.csproj|solutionrelative:asm\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC63600E-1FBF-4310-952B-2467B42D598C}|ASM\\ASM.csproj|f:\\nearbydoctor-main\\asm\\migrations\\20240814035355_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC63600E-1FBF-4310-952B-2467B42D598C}|ASM\\ASM.csproj|solutionrelative:asm\\migrations\\20240814035355_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC63600E-1FBF-4310-952B-2467B42D598C}|ASM\\ASM.csproj|f:\\nearbydoctor-main\\asm\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC63600E-1FBF-4310-952B-2467B42D598C}|ASM\\ASM.csproj|solutionrelative:asm\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC63600E-1FBF-4310-952B-2467B42D598C}|ASM\\ASM.csproj|f:\\nearbydoctor-main\\asm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC63600E-1FBF-4310-952B-2467B42D598C}|ASM\\ASM.csproj|solutionrelative:asm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\NearByDoctor-main\\ASM\\Migrations\\20240814035007_ddd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ASM\\Migrations\\20240814035007_ddd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC63600E-1FBF-4310-952B-2467B42D598C}|ASM\\ASM.csproj|f:\\nearbydoctor-main\\asm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC63600E-1FBF-4310-952B-2467B42D598C}|ASM\\ASM.csproj|solutionrelative:asm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "F:\\NearByDoctor-main\\ASM\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "ASM\\Models\\Appointment.cs",
+              "ToolTip": "F:\\NearByDoctor-main\\ASM\\Models\\Appointment.cs",
+              "RelativeToolTip": "ASM\\Models\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T03:23:17.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\NearByDoctor-main\\ASM\\Views\\Appointments\\Create.cshtml",
+              "RelativeDocumentMoniker": "ASM\\Views\\Appointments\\Create.cshtml",
+              "ToolTip": "F:\\NearByDoctor-main\\ASM\\Views\\Appointments\\Create.cshtml",
+              "RelativeToolTip": "ASM\\Views\\Appointments\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T03:21:54.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "F:\\NearByDoctor-main\\ASM\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "ASM\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "F:\\NearByDoctor-main\\ASM\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "ASM\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AQIAANcAAAAAAAAAAAAUwN4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T03:21:06.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240814035355_initDb.cs",
+              "DocumentMoniker": "F:\\NearByDoctor-main\\ASM\\Migrations\\20240814035355_initDb.cs",
+              "RelativeDocumentMoniker": "ASM\\Migrations\\20240814035355_initDb.cs",
+              "ToolTip": "F:\\NearByDoctor-main\\ASM\\Migrations\\20240814035355_initDb.cs",
+              "RelativeToolTip": "ASM\\Migrations\\20240814035355_initDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:53:55.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240814035007_ddd.cs",
+              "DocumentMoniker": "F:\\NearByDoctor-main\\ASM\\Migrations\\20240814035007_ddd.cs",
+              "RelativeDocumentMoniker": "ASM\\Migrations\\20240814035007_ddd.cs",
+              "ToolTip": "F:\\NearByDoctor-main\\ASM\\Migrations\\20240814035007_ddd.cs",
+              "RelativeToolTip": "ASM\\Migrations\\20240814035007_ddd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:50:08.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "F:\\NearByDoctor-main\\ASM\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "ASM\\Models\\Doctor.cs",
+              "ToolTip": "F:\\NearByDoctor-main\\ASM\\Models\\Doctor.cs",
+              "RelativeToolTip": "ASM\\Models\\Doctor.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:46:09.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\NearByDoctor-main\\ASM\\appsettings.json",
+              "RelativeDocumentMoniker": "ASM\\appsettings.json",
+              "ToolTip": "F:\\NearByDoctor-main\\ASM\\appsettings.json",
+              "RelativeToolTip": "ASM\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T03:45:46.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\NearByDoctor-main\\ASM\\Program.cs",
+              "RelativeDocumentMoniker": "ASM\\Program.cs",
+              "ToolTip": "F:\\NearByDoctor-main\\ASM\\Program.cs",
+              "RelativeToolTip": "ASM\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:44:57.616Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
